@@ -1,0 +1,9 @@
+*.o
+*.d
+*.elf
+*.eep
+*.hex
+*.lss
+*.map
+*.srec
+*__pycache__*
